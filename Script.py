@@ -195,11 +195,11 @@ Nᴀᴍᴇ - {}"""
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
+🔅 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 :  <a href="https://t.me/TG_LINKS_CHANNEL">𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @TG_UPDATES1
+▫️ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 : @TG_UPDATES1
 ▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @movies_hub_official2
 =========== • ✠ • ===========</b>"""
 
@@ -207,10 +207,10 @@ Nᴀᴍᴇ - {}"""
 <b>Query: {query}
 IMDb Data:
 
-🏷 Title: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
+🏷 𝐓𝐈𝐓𝐋𝐄: <a href={url}>{title}</a>
+🎭 𝐆𝐄𝐍𝐑𝐄: {genres}
+📆 𝐘𝐄𝐀𝐑: <a href={url}/releaseinfo>{year}</a>
+🌟 𝐑𝐀𝐓𝐈𝐍𝐆: <a href={url}/ratings>{rating}</a> / 10</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
